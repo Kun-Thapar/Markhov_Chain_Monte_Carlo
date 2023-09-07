@@ -1,6 +1,8 @@
 # Introduction
 The following repository consists of the assignment I did as a part of my coursework "Astrostatistics". I was required to do three assignments. \\ 
-The first assignment had four main objectives:
+\\
+# Assignment 2:
+**The first assignment had four main objectives:**
 <ul type="disc">
   <li>To write an MCMC code to estimate cosmological parameters h, which is the
 hubble parameter and Ωm, which is the matter density parameter, from the
