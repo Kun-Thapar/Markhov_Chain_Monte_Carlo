@@ -1,6 +1,6 @@
 # Introduction
-The following repository consists of the assignment I did as a part of my coursework "Astrostatistics". The python scripts of all the assignments are uploaded in this repository.\\
-I was required to do three assignments.\\ 
+The following repository consists of the assignment I did as a part of my coursework "Astrostatistics". The python scripts of all the assignments are uploaded in this repository.
+I was required to do three assignments.
 
 # Assignment 1:
 **The assignment had four main objectives:**
