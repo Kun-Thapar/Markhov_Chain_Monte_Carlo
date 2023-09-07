@@ -19,7 +19,7 @@ This assignment was an extention of the first assignmet. It had three additional
 
 <ul type="disc">
 
-  <li> **Importance sampling:** Consider a non-flat prior, so the target distribution is the posterior, not the likelihood. We can still sample from the likelihood (as you have been doing), and construct
+  <li> Importance sampling: Consider a non-flat prior, so the target distribution is the posterior, not the likelihood. We can still sample from the likelihood (as you have been doing), and construct
 the posterior by weighting the points with the prior to get the target. This is an example of importance sampling, where we sample from a different distribution from the one we eventually
 want. Apply a prior on the Hubble constant to your chain, assuming a gaussian prior with mean 0.738 and standard deviation 0.024. Now plotting all the points in the chain will give a graph
 which looks the same as your previous graphs, so what should you do? Compute the mean h, Ωm with and without the prior. </li>
